@@ -1,0 +1,6 @@
+.metadata/
+*.class
+bin/
+sts-5.1.1.RELEASE/
+.classpath
+.project
